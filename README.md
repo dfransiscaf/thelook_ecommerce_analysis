@@ -27,11 +27,14 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 ## Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+TheLook eCommerce is a comprehensive, synthetic dataset hosted on BigQuery Public Data. It consists of seven main tables containing over 120,000+ transactional records. The dataset provides a holistic view of a digital retail business, including:
+- **distribution_centers:** Locations of physical warehouses.
+- **events:** User behavior logs (page views, cart additions, etc.) for funnel and conversion analysis.
+- **inventory_items:** Detailed stock records, including product costs and warehouse entry dates.
+- **order_items:** Granular, item-level transaction history, including sale prices and specific fulfillment statuses.
+- **orders:** High-level transaction records containing order metadata (user ID, order timestamp).
+- **products:** Product catalog featuring category names, brands, and retail prices.
+- **users:** Customer demographic profiles including age, gender, and registration details.
 
 [Entity Relationship Diagram here]
 

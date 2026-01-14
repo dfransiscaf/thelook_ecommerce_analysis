@@ -6,7 +6,7 @@
 
 TheLook is a global e-commerce company that sells trendy apparel for men and women. Company's primary focus is providing a seamless online shopping experience with a wide variety of clothing categories, from casual wear to formal attire.
 
-Established in 2019, TheLook's book of business have grown into a data-rich platform with over of ... customers and possesses over ... transactions, generating sales revenue exceeding $...milion. 
+Established in 2019, TheLook's book of business have grown into a data-rich platform with 100.000 customers, possesses over 125.000 transactions, and generating sales revenue exceeding $2.71 milion. 
 
 In-depth analysis is conducted to evaluate TheLook's performance over the past several years (2019-2025). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enchance TheLook's commercial performance. The key insights and recommendations are provided on the following key areas:
 
@@ -36,9 +36,15 @@ TheLook eCommerce is a comprehensive, synthetic dataset hosted on BigQuery Publi
 - **products:** Product catalog featuring category names, brands, and retail prices.
 - **users:** Customer demographic profiles including age, gender, and registration details.
 
-[Entity Relationship Diagram here]
+<img width="1593" height="1004" alt="ERD - TheLook" src="https://github.com/user-attachments/assets/ca1e8e71-3273-45a1-b8a9-a5187d408c8f" />
 
-
+Initial Data Audit 
+Conducted an initial data audit on the raw dataset and found several issues that required cleaning:
+- **Date Range Validation:** Removed future-dated transactions (beyond Jan 2026) to ensure historical accuracy.
+- **Order Status Distribution:** Identify orders value based on status (Complete, Cancelled, Returned, Shipped, Processing).
+- **Data Integrity Check:** Evaluating relationship between tables.
+- **Unique Visitors & Sessions:** Analyzing traffic volume from events table for preparing the conversion rate.
+- **Schema Refinement:** Performed a 3-way join between orders, products, and users to create a unified Gold Table for easier visualization.
 
 ## Executive Summary
 

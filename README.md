@@ -17,9 +17,9 @@ In-depth analysis is conducted to evaluate TheLook's performance over the past s
 - **Customer Loyalty & Retention (The Stickiness Pillar):** Analyzing Customer Lifetime Value (LTV) to ensure the cost of acquisition is sustainable. This focuses on long-term profitability and reducing "One-Time Buyer" rates through repeat purchase analysis.
 - **Quality & Operational Excellence (The Quality Pillar):** Analyzing product performance, market impact, and return/refund rates across different categories. This informs strategic decisions on inventory and identifies quality issues to minimize operational loss.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found here [![Gist](https://img.shields.io/badge/Gist-SQL_Scripts-blue?style=for-the-badge&logo=github)](https://gist.github.com/dfransiscaf/e800ad6973e750b8945e19470b479351)
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found here [![Gist](https://img.shields.io/badge/Gist-SQL_Scripts-blue?style=for-the-badge&logo=github)](https://gist.github.com/dfransiscaf/62fa3baa3210b0265abe2e671e8c3447)
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 

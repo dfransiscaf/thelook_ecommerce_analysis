@@ -40,11 +40,11 @@ TheLook eCommerce is a comprehensive, synthetic dataset hosted on BigQuery Publi
 
 Initial Data Audit 
 Conducted an initial data audit on the raw dataset and found several issues that required cleaning:
-- **Date Range Validation:** Removed future-dated transactions (beyond Jan 2026) to ensure historical accuracy.
-- **Order Status Distribution:** Identify orders value based on status (Complete, Cancelled, Returned, Shipped, Processing).
-- **Data Integrity Check:** Evaluating relationship between tables.
-- **Unique Visitors & Sessions:** Analyzing traffic volume from events table for preparing the conversion rate.
-- **Schema Refinement:** Performed a 3-way join between orders, products, and users to create a unified Gold Table for easier visualization.
+- **Handling Missing Values:** fills in the blanks by adding a default value.
+- **Remove Duplicates:** Ensure only one record per entity by identifying and retaining the most relevant row.
+- **Remove Unwanted Spaces:** Remove unnecessary spaces to ensure data consistency and uniformity across all records.
+- **Data Normalization & Standardization:** Mapping coded values to user-friendly descriptions.
+- **Date Integrity & Anomalies :** Removed future-dated transactions to ensure historical accuracy.
 
 ## Executive Summary
 
@@ -54,7 +54,20 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
+<p align="center">
+  <img width="606" height="457" alt="Sheet 1 (1)" src="https://github.com/user-attachments/assets/08cdcc99-cf18-490c-b7c6-b57a039617e7" />
+</p>
 
+1. Revenue Growth and Peak Performance
+- in 2025 sales consistently growing each quarter
+- q4 is the highest revenue and making it the best performing period
+2. Quarterly insights & seasional trends
+- q2 and q4 of each year typically show strong performance likely due to seasonal shopping trends and marketing efforts
+- q1 the revenue quickly dropped, signalling an overall weak performance compared to previous year
+3. Ket takeways and recomendations
+- investigate the causes of 2022 decline (e.g., market changes, competition, internal factors)
+- leverage high performing periods to refine marketing and sales strategies
+- reasses business strategy focusing pricing, promotions, and customer engagement to regain momentum
 
 ## Insights Deep Dive
 #### Category 1:

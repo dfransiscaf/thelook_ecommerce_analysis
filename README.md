@@ -10,7 +10,7 @@ Established in 2019, TheLook's book of business have grown into a data-rich plat
 
 In-depth analysis is conducted to evaluate TheLook's performance over the past several years (2019-2025). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enchance TheLook's commercial performance. The key insights and recommendations are provided on the following key areas:
 
-### Key Metrics & North Star Framework
+## Key Metrics & North Star Framework
 
 - **Revenue & Transaction Value (The Value Pillar):** Monitoring Gross Merchandise Value (GMV) and total sales revenue over specific periods. This includes tracking the number of successful transactions and Average Order Value (AOV) to understand spending patterns.
 - **Conversion & Funnel Efficiency (The Reach Pillar):** Evaluating the conversion rate from website visitors to completed purchases. This involves identifying "friction points" in the user journey and assessing funnel effectiveness to maximize customer acquisition and initial retention.
@@ -21,7 +21,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targed SQL queries regarding various business questions can be found here [![Gist](https://img.shields.io/badge/Gist-SQL_Scripts-blue?style=for-the-badge&logo=github)](https://gist.github.com/dfransiscaf/62fa3baa3210b0265abe2e671e8c3447)
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/RevenueGrowth2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
@@ -48,29 +48,29 @@ Conducted an initial data audit on the raw dataset and found several issues that
 
 ## Executive Summary
 
-#### Overview of Findings
+### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+This dashboard provides a comprehensive analysis of TheLook eCommerce performance throughout 2025, monitoring core KPIs including Total Sales, Order Volume, and Customer Growth. It tracks monthly revenue trends to identify seasonal momentum while pinpointing top-performing product categories and geographic markets. The analysis is designed to provide a clear view of global business health and identify key drivers behind the year's growth.
 
 <p align="center">
-  <img width="606" height="457" alt="Sheet 1 (1)" src="https://github.com/user-attachments/assets/08cdcc99-cf18-490c-b7c6-b57a039617e7" />
+  <img width="1199" height="599" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a88e398f-cd12-41b1-83c7-d3ab7051bfee"/>
 </p>
 
-1. Revenue Growth and Peak Performance
-- in 2025 sales consistently growing each quarter
-- q4 is the highest revenue and making it the best performing period
-2. Quarterly insights & seasional trends
-- q2 and q4 of each year typically show strong performance likely due to seasonal shopping trends and marketing efforts
-- q1 the revenue quickly dropped, signalling an overall weak performance compared to previous year
-3. Ket takeways and recomendations
-- investigate the causes of 2022 decline (e.g., market changes, competition, internal factors)
-- leverage high performing periods to refine marketing and sales strategies
-- reasses business strategy focusing pricing, promotions, and customer engagement to regain momentum
+#### **1. Revenue Growth and Market Dominance**
+* Sales grew consistently throughout 2025, with **China** emerging as the primary market leader, indicating significant dominance in the APAC region.
+* **December** recorded the highest growth, with a **23% increase** compared to the previous month, marking it the best-performing period of the year.
+
+#### **2. Quarterly Insights and Seasonal Trends**
+* The fourth quarter showed exceptional performance, driven by seasonal shopping trends and year-end marketing campaigns. **Outerwear and Coats** were identified as the top-performing categories during this period.
+* Conversely, revenue saw a sharp **6.5% decline in February**, identifying it as a weak period that requires further strategic attention compared to the year-end surge.
+
+#### **3. Strategic Recommendations**
+* Leverage the strong brand presence in China by developing more **localized marketing campaigns** to further solidify market share in the APAC region.
+* To sustain momentum during peak seasons (like Q4), implement targeted **loyalty programs** focusing on high-performing categories such as Outerwear.
+* Investigate the February slump to identify external factors (competition/market shifts) and reassess **pricing and promotion strategies** to regain momentum earlier in the year.
 
 ## Insights Deep Dive
-#### Category 1:
+#### Monthly Performance:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -83,7 +83,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-#### Category 2:
+#### Top Performance by Categories:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -96,7 +96,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-#### Category 3:
+#### Retail Price Comparison by Category:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -109,7 +109,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-#### Category 4:
+#### Total Orders, Total Sales, Average Order Value:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   

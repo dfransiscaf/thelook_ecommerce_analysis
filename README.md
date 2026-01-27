@@ -53,7 +53,8 @@ Conducted an initial data audit on the raw dataset and found several issues that
 This dashboard provides a comprehensive analysis of TheLook eCommerce performance throughout 2025, monitoring core KPIs including Total Sales, Order Volume, and Customer Growth. It tracks monthly revenue trends to identify seasonal momentum while pinpointing top-performing product categories and geographic markets. The analysis is designed to provide a clear view of global business health and identify key drivers behind the year's growth.
 
 <p align="center">
-  <img width="1199" height="599" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a88e398f-cd12-41b1-83c7-d3ab7051bfee"/>
+  <img width="1199" height="599" alt="Dashboard 1 (9)" src="https://github.com/user-attachments/assets/d8f26eff-5d67-49d6-a868-f1e9380fbc81" />
+
 </p>
 
 #### **1. Revenue Growth and Market Dominance**
@@ -70,7 +71,9 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 * Investigate the February slump to identify external factors (competition/market shifts) and reassess **pricing and promotion strategies** to regain momentum earlier in the year.
 
 ## Insights Deep Dive
-#### Monthly Performance:
+### Revenue & Transaction Value
+
+<img width="1199" height="599" alt="Dashboard 1 (10)" src="https://github.com/user-attachments/assets/2f9f8502-90f4-426b-aff9-d52516c8cb3c" />
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -80,10 +83,8 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 1]
 
-
-#### Top Performance by Categories:
+<img width="1199" height="599" alt="Dashboard 1 (3)" src="https://github.com/user-attachments/assets/3b945132-c108-4191-9a50-52aab95d2fa5" />
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -93,23 +94,9 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 2]
+### Conversion & Funnel Efficiency 
 
-
-#### Retail Price Comparison by Category:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
-
-
-#### Total Orders, Total Sales, Average Order Value:
+<img width="1199" height="599" alt="Dashboard 1 (7)" src="https://github.com/user-attachments/assets/d38ab3fb-74f6-43ee-bf70-43b2a2ee9f3b" />
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -119,9 +106,32 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 4]
+<img width="1199" height="599" alt="Dashboard 1 (11)" src="https://github.com/user-attachments/assets/2a4bb1fd-ffc3-4150-bb09-5bd7e7aa827f" />
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+### Customer Loyalty & Retention
+
+<img width="1199" height="599" alt="Dashboard 1 (13)" src="https://github.com/user-attachments/assets/c802a47a-ddb4-44c6-90a4-d5cfd68749d7" />
 
 
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+### Quality & Operational Excellence
+
+<img width="1199" height="599" alt="Dashboard 1 (12)" src="https://github.com/user-attachments/assets/ab556c31-d2c2-4a70-a713-35655cf4be1f" />
 
 ## Recommendations:
 

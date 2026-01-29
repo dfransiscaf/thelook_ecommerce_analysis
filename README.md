@@ -89,8 +89,11 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 * December reached a peak of 2,326 orders, while February remained the lowest with 1,018 orders. The monthly average for the year was 1,458 orders.
 * While spending per order (AOV) was stable, the steady growth in order frequency was the main driver for the overall increase in total revenue.
 
+####
+
 <img width="1199" height="599" alt="Dashboard 1 (21)" src="https://github.com/user-attachments/assets/b5fcb346-30b1-403f-87f6-615efd5995bd" />
 
+####
 
 * The monthly AOV indicates a stable basket size throughout the year, suggesting consistent consumer spending. However, a deep dive into the Price Delta reveals specific "high-ticket" items within certain categories.
 * For instance, in the Shorts category, there is a significant outlier with a price delta of $953.23 above the category average of $45.77. Similarly, the Outerwear & Coats category features premium items retailing at $903.00, representing a price delta $756.98 higher than the category average of $146.02.
@@ -99,69 +102,89 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 
 <img width="1199" height="599" alt="Dashboard 1 (22)" src="https://github.com/user-attachments/assets/83ef27c0-d60d-48f9-b0d9-4009821f47e5" />
 
+####
+
 * Outerwear & Coats consistently led sales over the year, exceeding $129,269 with 871 orders. This suggests a premium pricing strategy, as it generates the highest revenue despite having fewer orders than other top categories.
 * Jeans and Sweaters secured the second and third positions, generating $123,552 (1,242 orders) and $82,425 (1,074 orders) respectively, showing strong market demand.
 * Clothing Sets recorded the lowest performance with only $2,221 in revenue and 28 orders, indicating a potential need for assortment review or marketing focus.
 * In terms of transaction frequency, Intimates outperformed all other categories with 1,338 orders, despite not breaking into the Top 10 by revenue. This indicates a high-volume, low-margin product profile.
 
+####
+
 <img width="1199" height="599" alt="Dashboard 1 (16)" src="https://github.com/user-attachments/assets/514753c2-dedf-4590-8321-af851bea24ea" />
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+####
 
-<img width="1199" height="599" alt="Dashboard 1 (17)" src="https://github.com/user-attachments/assets/207be02d-6b1a-40e0-a12f-e5577e0ef83c" />
+* The AOV for first-time orders shows a near-linear trend, holding steady between $58 and $62. This indicates that initial purchases are predictable initial spending pattern and unaffected by seasonal shifts.
+* In contrast, repeat customers showed much higher spending volatility, with an AOV that started strong in January, reaching its yearly high of $100. Although it saw dips in March and November ($81), repeat customers historically spend significantly more per transaction than first-time buyers.
+* The data confirms customer loyalty, where existing customers are willing to commit to larger basket sizes over time. This trend reinforces the importance of retention strategies to drive higher revenue per user.
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+####
 
-### Customer Loyalty & Retention
+<img width="1199" height="599" alt="Dashboard 1 (23)" src="https://github.com/user-attachments/assets/3b8d693c-0581-4a19-ae3a-60115128b5b9" />
+
+#####
+
+* Search is the primary acquisition channel, contributing over $619,289 in total annual sales. This dominance suggests strong brand equity, where customers are actively looking for the brand, leading to high-intent purchases.
+* With a consistent average contribution, the Search channel proves to be the most mature and dependable source of income for the platform.
+* Looking at the lower end, Display recorded the bottom performance at $34,741 in total sales. This significant gap suggests that display-based advertising is currently less effective at driving direct conversions, presenting an opportunity to either re-evaluate the ad creative or reallocate the budget to higher-performing channels.
+
+#####
+
+### Market Level Retention
 
 <img width="1199" height="599" alt="Dashboard 1 (13)" src="https://github.com/user-attachments/assets/c802a47a-ddb4-44c6-90a4-d5cfd68749d7" />
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+#####
 
-### Quality & Operational Excellence
+* Across all primary markets, China recorded the highest volume of churned users (24,336 users), representing an 85.74% churn rate. This high volume is closely followed by the United States (85.79%) and Brasil (85.31%), indicating a common challenge in long-term retention across major regions.
+* Despite the high churn volume, China maintains its position as the market leader in engagement, holding the highest percentage of Active (5.96%) and Warm (8.30%) users.
+* Similar engagement patterns are observed in Brasil and the United States, where Brasil slightly outperforms others with a 6.02% Active and 8.67% Warm user base.
+* Interestingly, smaller markets like Espana and Deutschland show minimal churn (only 1 user each), while Poland struggles with engagement, recording the lowest rates for both Active (5.29%) and Warm (7.21%) customers.
 
-<img width="1199" height="599" alt="Dashboard 1 (12)" src="https://github.com/user-attachments/assets/ab556c31-d2c2-4a70-a713-35655cf4be1f" />
+### Category Return Performance
+
+<img width="1199" height="599" alt="Dashboard 1 (24)" src="https://github.com/user-attachments/assets/8193d567-11d7-445e-9bc2-c73b8308a2eb" />
+
+#####
+
+* Skirts recorded the highest return rate at 13.54%, followed by Socks & Hosiery (10.83%) and Jeans (10.57%). This indicates a higher dissatisfaction or sizing mismatch in these specific categories throughout the year.
+* Notably, Jeans is the second-highest revenue generator with $123,552, but it also carries a high return rate. This suggests that while Jeans drive significant growth, they also represent a high operational risk. Similarly, Intimates saw a substantial return count of 487 items out of 1,338 orders, highlighting the need for better quality control in high-volume segments.
+* In contrast, Clothing Sets and Maternity proved to be the most reliable products with the lowest return rates at 7.52% and 8.39%, respectively.
+* However, the low return rate for Clothing Sets is also correlated with its low sales volume, as it ranks at the bottom of the total purchase orders. This suggests that while the product is rarely returned, it also has the lowest market demand.
+
+#####
 
 ## Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the stakeholder team to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+#### **1. Revenue & Transaction Value** 
+* Address the sales dip in February by launching targeted marketing campaigns to maintain momentum during low-season periods.
+* Evaluate high-priced outliers in premium categories to ensure pricing aligns with market expectations and doesn't deter conversion.
+* Re-engage lost customers through personalized remarketing or adjusted pricing strategies specifically designed for returning users.
+
+#### **2. Conversion & Funnel Efficiency**
+* Optimize inventory levels for high-performing categories (Outerwear, Coats, Jeans, and Sweaters) while deprioritizing low-demand items like Clothing Sets.
+* Leverage the high volume of Intimates (over 1,000 orders) as a gateway for cross-selling or bundling with high-margin items.
+* Implement a VIP/Loyalty Program for repeat customers to stabilize their spending volatility and capitalize on their high AOV potential ($100).
+* Double down on the high-performing Search channel to capture existing demand, while re-evaluating the Display ads budget to find more cost-effective ways of acquiring new customers to ensure a healthy long-term sales funnel.
+
+#### **3. Market Level Retention**
+* Maintain China’s market leadership by implementing country-specific retention strategies to mitigate the high churn volume while preserving its massive active user base.
+* Expand the brand's footprint in Espana and Deutschland by localizing product offerings and sales channels to grow purchase orders in these low-churn regions.
+
+#### **4. Quality Control & Loss Prevention**
+* Conduct a comprehensive review of Skirts and Jeans (return rates >10%). Enhancing size guides and product descriptions is critical to minimizing "revenue leakage."
+* Tighten quality control for Jeans and other high-AOV products, as their frequent returns significantly impact net profitability and operational costs.
   
 
 
 ## Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+Throughout the analysis, several assumptions were made to address data challenges and ensure accuracy. These assumptions and caveats are noted below:
+* Duplicate records identified within the email data were removed to ensure only one unique record per customer entity, retaining the most relevant data point.
+* To maintain data integrity, missing values in Brand Name and Product Name were imputed with default values: 'Unknown_Brand' and 'Unnamed Product', respectively.
+* A significant price outlier was identified in the Shorts and Outerwear & Coats category. This was kept in the analysis but warrants further investigation to confirm if it represents a luxury high-margin item or a data entry error.
+* Return rates for the most recent period may be subject to change, as the standard 30-day return window may not have fully closed.
+* All financial metrics are analyzed in USD and do not account for global currency fluctuations in international markets.

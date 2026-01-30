@@ -58,7 +58,7 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 </p>
 
 #### **1. Revenue Growth and Market Dominance**
-* Sales grew consistently throughout 2025, with China emerging as the primary market leader, indicating significant dominance in the APAC region.
+* Sales grew consistently throughout 2025, with China emerging as the primary market leader.
 * December recorded the highest growth, with a 23% increase compared to the previous month, marking it the best-performing period of the year.
 
 #### **2. Quarterly Insights and Seasonal Trends**
@@ -121,26 +121,26 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 
 ####
 
-<img width="1199" height="599" alt="Dashboard 1 (23)" src="https://github.com/user-attachments/assets/3b8d693c-0581-4a19-ae3a-60115128b5b9" />
+<img width="1199" height="599" alt="Dashboard 1 (28)" src="https://github.com/user-attachments/assets/b60bd85b-9e1f-4ab2-a6b1-f44aad0700fb" />
 
 #####
 
-* Search is the primary acquisition channel, contributing over $619,289 in total annual sales. This dominance suggests strong brand equity, where customers are actively looking for the brand, leading to high-intent purchases.
+* Search is the primary acquisition channel, contributing over $611,846 in total annual sales. This dominance suggests strong brand equity, where customers are actively looking for the brand, leading to high-intent purchases.
 * With a consistent average contribution, the Search channel proves to be the most mature and dependable source of income for the platform.
-* Looking at the lower end, Display recorded the bottom performance at $34,741 in total sales. This significant gap suggests that display-based advertising is currently less effective at driving direct conversions, presenting an opportunity to either re-evaluate the ad creative or reallocate the budget to higher-performing channels.
+* Looking at the lower end, Display recorded the bottom performance at $35,209 in total sales. This significant gap suggests that display-based advertising is currently less effective at driving direct conversions, presenting an opportunity to either re-evaluate the ad creative or reallocate the budget to higher-performing channels.
 
 #####
 
 ### Market Level Retention
 
-<img width="1199" height="599" alt="Dashboard 1 (13)" src="https://github.com/user-attachments/assets/c802a47a-ddb4-44c6-90a4-d5cfd68749d7" />
+<img width="1199" height="599" alt="Dashboard 1 (26)" src="https://github.com/user-attachments/assets/69436f2d-7394-46b2-a879-21ab9d58fb77" />
 
 #####
 
-* Across all primary markets, China recorded the highest volume of churned users (24,336 users), representing an 85.74% churn rate. This high volume is closely followed by the United States (85.79%) and Brasil (85.31%), indicating a common challenge in long-term retention across major regions.
-* Despite the high churn volume, China maintains its position as the market leader in engagement, holding the highest percentage of Active (5.96%) and Warm (8.30%) users.
-* Similar engagement patterns are observed in Brasil and the United States, where Brasil slightly outperforms others with a 6.02% Active and 8.67% Warm user base.
-* Interestingly, smaller markets like Espana and Deutschland show minimal churn (only 1 user each), while Poland struggles with engagement, recording the lowest rates for both Active (5.29%) and Warm (7.21%) customers.
+* Across all primary markets, China recorded the highest volume of churned users (24,446 users), representing an 85.82% churn rate. This high volume is closely followed by the United States (85.95%) and Brasil (85.84%), indicating a common challenge in long-term retention across major regions.
+* Despite the high churn volume, China maintains its position as the market leader in engagement, holding the highest percentage of Active (5.96%) and Warm (8.22%) users.
+* Similar patterns are observed in Brasil and the United States. Brasil slightly outperforms other major regions with a 5.87% Active and 8.29% Warm user base, while the United States follows closely with 5.89% Active and 8.15% Warm users.
+* At the opposite end of the spectrum, countries like Austria and Colombia exhibit the lowest engagement levels. Austria records a 50% Active/Warm rate solely because it only has 2 users total. Meanwhile, Colombia shows a critical lack of engagement, where all 5 users are classified as churned, leaving the region with zero active or warm customers. These regions represent underdeveloped markets that require a completely different strategic approach to establish any brand presence.
 
 ### Category Return Performance
 
@@ -157,7 +157,7 @@ This dashboard provides a comprehensive analysis of TheLook eCommerce performanc
 
 ## Recommendations:
 
-Based on the insights and findings above, we would recommend the stakeholder team to consider the following: 
+Based on the insights and findings above, we would recommend that the stakeholder team consider the following: 
 
 #### **1. Revenue & Transaction Value** 
 * Address the sales dip in February by launching targeted marketing campaigns to maintain momentum during low-season periods.
@@ -171,13 +171,12 @@ Based on the insights and findings above, we would recommend the stakeholder tea
 * Double down on the high-performing Search channel to capture existing demand, while re-evaluating the Display ads budget to find more cost-effective ways of acquiring new customers to ensure a healthy long-term sales funnel.
 
 #### **3. Market Level Retention**
-* Maintain China’s market leadership by implementing country-specific retention strategies to mitigate the high churn volume while preserving its massive active user base.
-* Expand the brand's footprint in Espana and Deutschland by localizing product offerings and sales channels to grow purchase orders in these low-churn regions.
+* Maintain China’s market leadership by implementing country-specific retention strategies to mitigate the high churn volume while sustaining its massive active user base.
+* Conduct a market re-evaluation for Austria and Colombia. Given the small user base and high churn rate in Colombia (100%), the focus should shift from simple expansion to identifying product-market fit or testing localized marketing campaigns to establish a viable initial foothold.
 
 #### **4. Quality Control & Loss Prevention**
-* Conduct a comprehensive review of Skirts and Jeans (return rates >10%). Enhancing size guides and product descriptions is critical to minimizing "revenue leakage."
-* Tighten quality control for Jeans and other high-AOV products, as their frequent returns significantly impact net profitability and operational costs.
-  
+* Review Skirts and Jeans (return rates >10%) by improving size guides and product descriptions to prevent revenue loss.
+* Strengthen quality control for Jeans and high-priced items, as frequent returns on these products significantly increase operational costs and hurt net profit.
 
 
 ## Assumptions and Caveats:
@@ -185,6 +184,6 @@ Based on the insights and findings above, we would recommend the stakeholder tea
 Throughout the analysis, several assumptions were made to address data challenges and ensure accuracy. These assumptions and caveats are noted below:
 * Duplicate records identified within the email data were removed to ensure only one unique record per customer entity, retaining the most relevant data point.
 * To maintain data integrity, missing values in Brand Name and Product Name were imputed with default values: 'Unknown_Brand' and 'Unnamed Product', respectively.
-* A significant price outlier was identified in the Shorts and Outerwear & Coats category. This was kept in the analysis but warrants further investigation to confirm if it represents a luxury high-margin item or a data entry error.
+* A significant price outlier was identified in the Shorts and Outerwear & Coats category. This was kept in the analysis but warrants further investigation to determine whether it represents a luxury, high-margin item or a data entry error.
 * Return rates for the most recent period may be subject to change, as the standard 30-day return window may not have fully closed.
 * All financial metrics are analyzed in USD and do not account for global currency fluctuations in international markets.
